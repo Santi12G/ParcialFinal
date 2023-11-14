@@ -14,4 +14,8 @@
 ## Explicacion breve para trabajar en el repositorio:
 #### Se uso el git clone < https del repositorio > para hacer clonacion del repositorio en el equipo de manera local
 #### Se uso el git branch < nombre de la rama que se quiere crear > para crear una rama nueva
-#### Se uso el git switch < nombre de la rama existente > para crear 
+#### Se uso el git switch < nombre de la rama existente > para crear
+#### Se uso el git pull < origin > para obtener los cambios hechos en el repositorio remoto
+#### Se uso el git commit -m "COMENTARIO ACERCA DE LO QUE SE HIZO" 
+#### se uso el git merge < rama > para hacer que una rama obtuviera los cambios de otra
+
